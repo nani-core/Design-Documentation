@@ -32,14 +32,8 @@
     - [About Collision](Miscellaneous_GM.md#about-collision-/-关于碰撞) / 关于碰撞
     - [About Barrier](Miscellaneous_GM.md#about-barrier-/-关于屏障) / 关于屏障
 
+## ART ORIENTATION / 美术风格
+
 ## PUZZLE DESIGN / 谜题设计
 
-- [Market](Market.md) / 展览馆
-    - 次级目录略
-- Intro / 序章
-- Chapter 1 - Beginning / 第一章：起
-- Chapter 2 - Revealing / 第二章：承
-- Chapter 3 - Surprising / 第三章：转
-- Chapter 4 - Combining / 第四章：合
-
-## ART ORIENTATION / 美术风格
+为防止剧透，现将「谜题设计」分离出主策划案，若无权限则暂无法查看。
