@@ -2,7 +2,7 @@
 
 ## GENERAL NOTICE / 凡例
 - `SampleText`：参考的作品
-- SampleText\*：尚未完善
+- \*SampleText\*：尚未完善
 
 ## GAME MECHANICS / 游戏机制
 
@@ -23,7 +23,6 @@
     - [Optical Patterns](Pattern.md#optical-patterns-/-光学回形) / 光学回形
     - [Recursive Patterns](Pattern.md#recursive-patterns-/-嵌套回形) / 嵌套回形
     - [Criteria](Pattern.md#criteria-/-判定) / 判定
-    - [~~Applications~~](Pattern.md#applications-/-应用) / 应用（在下个版本删除，合并至[谜题设计](#puzzle-design-/-谜题设计)中）
 - [Water](Water.md) / 水
     - [Water Surface](Water.md#water-surface-/-水面) / 水面
     - [Pump & Drain](Water.md#pump-&-drain-/-注水口与排水口) / 注水口与排水口
