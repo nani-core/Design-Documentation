@@ -6,12 +6,13 @@
 
 ## GAME THEME / 游戏主题
 
+- [Background](Background.md) / 背景设定
 - [Theme](Theme.md) / 主题
     - [Loop](Theme.md#loop-/-循环) / 循环
     - [Paradox](Theme.md#paradox-/-悖论) / 悖论
     - [Strangeness](Theme.md#strangeness-/-诡谲) / 诡谲
-- [Background](Background.md) / 背景设定
 - [Goal](Goal.md) / 游戏目标
+- [Main Idea](MainIdea.md) / 中心思想
 
 ## GAME MECHANICS / 游戏机制
 
