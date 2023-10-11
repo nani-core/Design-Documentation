@@ -4,6 +4,15 @@
 - `SampleText`：参考的作品
 - \*SampleText\*：尚未完善
 
+## GAME THEME / 游戏主题
+
+- [Theme](Theme.md) / 主题
+    - [Loop](Theme.md#loop-/-循环) / 循环
+    - [Paradox](Theme.md#paradox-/-悖论) / 悖论
+    - [Strangeness](Theme.md#strangeness-/-诡谲) / 诡谲
+- [Background](Background.md) / 背景设定
+- [Goal](Goal.md) / 游戏目标
+
 ## GAME MECHANICS / 游戏机制
 
 - [Player](Player.md) / 玩家
