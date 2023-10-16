@@ -9,4 +9,4 @@
 
 
 
-//As long as this project is a graduation project, it hardly can gette away from the "values", since they art all in favour of students' projects to be added with some certain values. So, here it is. Essentially they art raised as something no more than jokes, they gradually, however, make more sense than we thought.
+// As long as this project is a graduation project, it hardly can get away from the "values", since they art all in favour of students' projects to be added with some certain values. So, here it is. Essentially they art raised as something no more than jokes, they gradually, however, make more sense than we thought.

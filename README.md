@@ -1,4 +1,5 @@
-# loopool 设计文档
+# DESIGN DOCUMENTATION / 设计文档
+主项目设计文档。
 
 ## GENERAL NOTICE / 凡例
 - `SampleText`：参考的作品
