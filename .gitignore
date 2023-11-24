@@ -1,2 +1,3 @@
 # Ignore puzzle design, since it may cause spoilers to public
+.markdownlint.json
 puzzle design
