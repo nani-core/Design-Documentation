@@ -6,4 +6,4 @@
 
 - 「这里是终点，也是起点。」在循环的场景中，终点也是起点，但在游戏流程中，一个阶段的结束，是下一阶段的开始。游戏中的循环并不是毫无意义的重复。如果不利用上一阶段学到的机制反复观察推敲，那么就无法对事件本身有足够透彻的认识，也就无法从循环中脱身。当玩家从循环中走出，会发现事物的答案其实从一开始就尽数展现在他们面前。
 
-// As long as this project is a graduation project, it hardly can get away from the "values", since they art all in favour of students' projects to be added with some certain values. So, here it is. Essentially they art raised as something no more than jokes, they gradually, however, make more sense than we thought.
+// As long as this project is a graduation project, it hardly can get away from the "values", since they are all in favour of students' projects to be added with some certain values. So, here it is. Essentially they are raised as something no more than jokes, they gradually, however, make more sense than we thought.
