@@ -24,5 +24,5 @@
 - 屏幕中心有一圆点作为准心，从此处发射射线。检测到可交互物体时，圆点扩大为圆环；[抓取]物体时，圆点/圆环消失。其他再无 HUD。`史丹利的寓言`
 - 当玩家抓取物体后，准心隐藏。
 
-[抓取]: Behaviors.md#Grabbing--抓取
-[水]: Water.md
+[抓取]: mechanics/Behaviors.md#Grabbing--抓取
+[水]: mechanics/Water.md

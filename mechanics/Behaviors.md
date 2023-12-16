@@ -41,6 +41,6 @@ graph LR
 - 「开关」有两种类型，一种是“全线循环”，能够循环切换到目标体的所有状态；一种是“区间单程”，只能取所有状态的部分区间，单向切换，到区间末尾后终止响应。
 - 「开关」与「抓取」「放置」「解体」在一次交互中是可以共存的。
 
-[「抓取」]: Behaviors.md#Grabbing--抓取
-[「放置」]: Behaviors.md#Placing-&-Using--放置与使用
-[水位]: Water.md
+[「抓取」]: mechanics/Behaviors.md#Grabbing--抓取
+[「放置」]: mechanics/Behaviors.md#Placing-&-Using--放置与使用
+[水位]: mechanics/Water.md
