@@ -33,7 +33,6 @@
 
 - [The Pattern](mechanics/Pattern.md) / 回形图案
   - [Introduction](mechanics/Pattern.md#introduction--引入) / 引入
-  - [Back of the Pattern](mechanics/Pattern.md#back-of-the-pattern--回形背面) / 回形背面
   - [Optical Patterns](mechanics/Pattern.md#optical-patterns--光学回形) / 光学回形
   - [Recursive Patterns](mechanics/Pattern.md#recursive-patterns--嵌套回形) / 嵌套回形
   - [Criteria](mechanics/Pattern.md#criteria--判定) / 判定
@@ -42,8 +41,11 @@
   - [Water Surface](mechanics/Water.md#water-surface--水面) / 水面
   - [Pump & Drain](mechanics/Water.md#pump-&-drain--注水口与排水口) / 注水口与排水口
 
+- [Rubik](mechanics/Rubik.md) / 魔方房间
+  - [Gyroscope](mechanics/Rubik.md#gyroscope--陀螺仪) / 陀螺仪
+
 - [Data IO](mechanics/DataIO.md) / 数据读写
-  - [Saving & Loading](mechanics/DataIO.md#saving-&-loading--存读档) / 存读档
+  - [Saving & Loading](mechanics/DataIO.md#saving--loading--存读档) / 存读档
   
 - [Miscellaneous](mechanics/Miscellaneous_GM.md) / 杂项
   - [Glass](mechanics/Glass.md) / 玻璃
@@ -54,4 +56,4 @@
 
 ## PUZZLE DESIGN / 谜题设计
 
-- 为防止剧透，现将「谜题设计」分离出主策划案，若无权限则暂无法查看。
+- 为防止剧透，现将「谜题设计」分离出主策划案，查看须授权。
